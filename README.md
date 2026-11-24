@@ -1,2 +1,2 @@
-# AppDev-Final-Project
-Attendance Manager System
+# Attendance Manager System
+App Dev Final Project
